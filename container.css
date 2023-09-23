@@ -52,8 +52,14 @@
         align-items: center;
         top:450px;
         text-align: center;
-
-
-
   }
-  
+
+  .bby{
+    position: relative;
+    justify-content: center;
+    top: 500px;
+    left: 0%;
+    text-align: center;
+    align-items: center;
+    
+  }
