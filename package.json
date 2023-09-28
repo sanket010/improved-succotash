@@ -61,7 +61,7 @@
   "eject": "react-scripts eject",
 
   
-  "start": "node index.js" ,
+  "start": "react-scripts start"
   
   
   },
