@@ -6,9 +6,13 @@ import logo3 from "./imgs/logo3.png";
 import logo4 from "./imgs/logo4.png";
 import logo5 from "./imgs/logoc1.png";
 
-const CurvedIconLayout = () => {
+const Containerone = () => {
   return (
-    <><div className="curved-icon-container">
+    
+    
+    <div className='containerr'>
+      
+      <div className="curved-icon-container">
 
       <div className="icon"><img src={logo1} alt="" height={55} width={55} /></div>
       <div className="icon"><img src={logo2} alt="" height={55} width={55} /></div>
@@ -24,9 +28,11 @@ const CurvedIconLayout = () => {
         <h3>Genrate beautiful and editable web designs from a simple text<h3>description.it empowers you to design faster than ever.</h3></h3>
         <span></span>
         <button className="btn btn-outline-success" type="submit">Generate Your Website</button>
-      </div></>
+      </div>
+      </div>
+      
 
   );
 };
 
-export default CurvedIconLayout;
+export default Containerone;
