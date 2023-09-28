@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sanket010/fuzzy-winner.git/static/css/main.df88f6fa.css",
+    "main.js": "/sanket010/fuzzy-winner.git/static/js/main.8e59c9f5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sanket010/fuzzy-winner.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo2.png": "/sanket010/fuzzy-winner.git/static/media/logo2.ac5cc1edae28e3741537.png",
+    "static/media/logo4.png": "/sanket010/fuzzy-winner.git/static/media/logo4.3bbf83263883311358e8.png",
+    "static/media/logo3.png": "/sanket010/fuzzy-winner.git/static/media/logo3.f721d6300da36dde4a81.png",
+    "static/media/logo1.png": "/sanket010/fuzzy-winner.git/static/media/logo1.8bb890575143ac67e282.png",
+    "static/media/logoc1.png": "/sanket010/fuzzy-winner.git/static/media/logoc1.476ef8b0d9e29bb470d9.png",
+    "static/media/logo.png": "/sanket010/fuzzy-winner.git/static/media/logo.7a885182c67f22cb6a29.png",
+    "index.html": "/sanket010/fuzzy-winner.git/index.html",
+    "main.df88f6fa.css.map": "/sanket010/fuzzy-winner.git/static/css/main.df88f6fa.css.map",
+    "main.8e59c9f5.js.map": "/sanket010/fuzzy-winner.git/static/js/main.8e59c9f5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sanket010/fuzzy-winner.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df88f6fa.css",
+    "static/js/main.8e59c9f5.js"
+  ]
+}
